@@ -236,3 +236,10 @@ footer {
         font-size: 2rem;
     }
 }
+
+.form-label{
+    color: #6f6f6f;
+}
+.container-form{
+    background-color: #750000;
+}
